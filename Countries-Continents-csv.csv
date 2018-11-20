@@ -1,0 +1,89 @@
+Continent,Country,State,Population
+Africa,Algeria,State_Algeria,436315
+Africa,Angola,State_Angola,322788
+Asia,India,Andhra Pradesh,"8,46,65,533"
+Asia,India,Arunachal Pradesh,"13,82,611"
+Asia,India,Assam,"3,11,69,272"
+Asia,India,Bihar,"10,38,04,637"
+Asia,India,Chhattisgarh,"2,55,40,196"
+Asia,India,Goa,"14,57,723"
+Asia,India,Gujarat,"6,03,83,628"
+Asia,India,Haryana,"2,53,53,081"
+Asia,Cambodia,State_Cambodia,943256
+Asia,Iraq,State_Iraq,91267
+Asia,Israel,State_Israel,536097
+Asia,Japan,State_Japan,420799
+Asia,Jordan,State_Jordan,287888
+Asia,Pakistan,State_Pakistan,980889
+Asia,Philippines,State_Philippines,792094
+Asia,Qatar,State_Qatar,702230
+Europe,Belgium,State_Belgium,334450
+Europe,Bosnia and Herzegovina,State_Bosnia and Herzegovina,118410
+Europe,Bulgaria,State_Bulgaria,515967
+Europe,Croatia,State_Croatia,398281
+Europe,Cyprus,State_Cyprus,659918
+Europe,Czech Republic,State_Czech Republic,216675
+Europe,Denmark,State_Denmark,133583
+Europe,Estonia,State_Estonia,176648
+Europe,Finland,State_Finland,131878
+Europe,France,State_France,941740
+Europe,Georgia,State_Georgia,860759
+Europe,Monaco,State_Monaco,783373
+Europe,Montenegro,State_Montenegro,188232
+Europe,Netherlands,State_Netherlands,835066
+Europe,Norway,State_Norway,59606
+Europe,Poland,State_Poland,992782
+Europe,Portugal,State_Portugal,377751
+Europe,Romania,State_Romania,720217
+Europe,San Marino,State_San Marino,982980
+Europe,Serbia,State_Serbia,56697
+Europe,Slovakia,State_Slovakia,644305
+Europe,Slovenia,State_Slovenia,391579
+Europe,Spain,State_Spain,352490
+Europe,Sweden,State_Sweden,143215
+Europe,Switzerland,State_Switzerland,90170
+North America,United States,Alabama,817644
+North America,United States,Alaska,743157
+North America,United States,Arizona,572583
+North America,United States,Arkansas,595467
+North America,United States,California,749073
+North America,United States,Colorado,527312
+North America,United States,Connecticut,914680
+North America,United States,Delaware,843229
+North America,United States,District of Columbia,978792
+North America,United States,Florida,589096
+North America,United States,Georgia,705171
+North America,United States,Hawaii,750524
+North America,United States,Idaho,579311
+North America,United States,Iowa,566931
+North America,Panama,State_Panama,800722
+North America,Saint Kitts and Nevis,State_Saint Kitts and Nevis,427156
+North America,Saint Lucia,State_Saint Lucia,753354
+North America,Saint Vincent and the Grenadines,State_Saint Vincent and the Grenadines,153684
+North America,Trinidad and Tobago,State_Trinidad and Tobago,557458
+Oceania,Australia,State_Australia,987445
+Oceania,Fiji,State_Fiji,675226
+Oceania,Kiribati,State_Kiribati,115191
+Oceania,Marshall Islands,State_Marshall Islands,664896
+Oceania,Micronesia,State_Micronesia,619308
+Oceania,Nauru,State_Nauru,274021
+Oceania,New Zealand,State_New Zealand,363655
+Oceania,Palau,State_Palau,85848
+Oceania,Papua New Guinea,State_Papua New Guinea,66679
+Oceania,Samoa,State_Samoa,513121
+Oceania,Solomon Islands,State_Solomon Islands,427450
+Oceania,Tonga,State_Tonga,985883
+Oceania,Tuvalu,State_Tuvalu,250922
+Oceania,Vanuatu,State_Vanuatu,406122
+South America,Argentina,State_Argentina,379940
+South America,Bolivia,State_Bolivia,790470
+South America,Brazil,State_Brazil,300293
+South America,Chile,State_Chile,106926
+South America,Colombia,State_Colombia,383729
+South America,Ecuador,State_Ecuador,851993
+South America,Guyana,State_Guyana,860519
+South America,Paraguay,State_Paraguay,607444
+South America,Peru,State_Peru,776975
+South America,Suriname,State_Suriname,961911
+South America,Uruguay,State_Uruguay,769912
+South America,Venezuela,State_Venezuela,979218
